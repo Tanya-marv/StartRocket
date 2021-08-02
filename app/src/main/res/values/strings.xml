@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Start Rocket</string>
+    <string name="rv_item_btn_video">Video</string>
+    <string name="madb_title">Delete launch</string>
+    <string name="madb_message">Do you really want to delete %s?</string>
+    <string name="madb_positive_btn">Confirm</string>
+    <string name="madb_negative_btn">Cancel</string>
+</resources>
